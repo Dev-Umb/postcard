@@ -1,0 +1,11 @@
+Database:
+  DbType: mysql  #数据库类型
+  DbName: chain_postcard  #数据库名称
+  Host: bj-cynosdbmysql-grp-kf9vc2hk.sql.tencentcdb.com:21437 #数据库链接，如 127.0.0.1:3306
+  Username: umb #用户名
+  Pwd: fk!ttWL7:!w3tgn #数据库密码
+  Charset: utf8  #数据库编码
+  ParseTime: True
+
+BlockChain:
+  RpcUrl: https://goerli.infura.io/v3/2ed31bc6502e497b9da2cacc56e063bb    #  区块链rpc地址  infura.io 可以获取
